@@ -1,1 +1,1 @@
-# task-02-codesoft
+to-do list using HTML, CSS AND JAVASCRIPT
